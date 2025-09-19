@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Ruslan Ibragimov👋
 
-<!--
-**ibragimov-re/ibragimov-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a student and a beginner software developer.   
+💡 I’m passionate about building desktop applications with intuitive and appealing user interfaces and unique functionality.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Primary language:** C++
+- **Also use:** Python, Visual Basic
+- **Build tools:** CMake
+- **Scripting:** PowerShell, Bash
+- **IDEs & Frameworks:** Visual Studio, Qt Creator, Qt Framework (currently learning)
+- **APIs:** OpenNX (for CAD NX), KompasAPI (for CAD Kompas-3D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Improve my knowledge of modern C++ and Qt Framework
+- Build desktop applications that combine functionality with great design
+
+## 📂 Projects
+- [Astro Pi](https://github.com/ibragimov-re/astro_pi)
+
+## 🌍 Languages
+- Russian (Native)
+- English (B1)
+
+## 📫 Connect with me
+- [Instagram](https://www.instagram.com/ibragimov_re/)
